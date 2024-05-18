@@ -1,4 +1,4 @@
 FINAL PROJECT ITE11O-AK1 
-Members: OTAZA
-         SALARDA
+Members: OTAZA,
+         SALARDA,
          SALAS
